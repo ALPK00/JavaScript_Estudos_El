@@ -1,0 +1,17 @@
+- Fazer curso de css e Html5
+
+- Function 
+
+- Objeto 
+
+- Modularização 
+ 
+- Expressões regulares
+
+- JSON
+
+- AJAX (Site infinito)
+
+- NodeJS
+
+- Jquery, angular, etc
